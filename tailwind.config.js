@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{forest:'#236B45',leaf:'#55A868',paper:'#F7F8F3',earth:'#8B6B4A',sand:'#EFE6D6'},fontFamily:{sans:['"Noto Sans"','"Noto Sans Devanagari"','system-ui','sans-serif'],display:['Fraunces','Georgia','serif']}}}}
